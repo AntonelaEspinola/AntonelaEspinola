@@ -1,15 +1,25 @@
-### Hola!  Soy Antonela Espinola  !
-<!--
-**AntonelaEspinola/AntonelaEspinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola!  Soy Antonela Espinola  
 
-Here are some ideas to get you started:
-
-- 🔭 Actualmente estoy trabajando en ...
-- 🌱 Actualmente estoy aprendiendo ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`` `javascript
+const Antonela = {
+    tecnologías: {
+    
+        frontEnd: ["Html", "Css", "Bootstrap", "Javascript", "Ejs"],
+        backEnd: ["NodeJs", "express", "MySql", "Sequelize", "Apis-fetch/ajax", "Crud", "Manejo de sesiones", "Cookies"],
+    },
+    
+    meGusta:
+        [Codear, Leer, {
+            Animes: {
+                favoritos: ["Bersek", "shingeki no kyojin", "Death Note", "Bleach"]
+            },
+            videojuegos: {
+                favoritos: ["Shooters", "Saga Dark Souls", "Saga Resident Evil", "fahrenheit", "Burnout"]
+            }
+        }],
+    atajosFavoritos:["ctrl + z", "ctrl + d"],
+    
+    aFuturo:"Me gustaria ser una desarrolladora que trabaje en proyectos que le gusten y generen impacto.",
+}
+}
+''
