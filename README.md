@@ -26,9 +26,6 @@ const Antonela = {
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonelaEspinola&layout=compact)](https://github.com/AntonelaEspinola/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScuderiFernando&repo=grupo_8_leaf&theme=oneDark)](https://github.com/ScuderiFernando/grupo_8_leaf)
-
-
+<a href="https://github.com/Leaf-libreria/grupo_8_LEAF" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-libreria&repo=grupo_8_LEAF"></a>
 
 ⭐️ De [@AntonelaEspinola](https://github.com/AntonelaEspinola)
